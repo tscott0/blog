@@ -7,7 +7,7 @@ PygmentsCodeFences = true
 PygmentsStyle = "friendly"
 
 [Params]
-  subtitle = "Gopher, clacker, human"
+  subtitle = "Engineer, clacker, human"
   logo = "img/logo.png"
   commit = false
 
@@ -15,6 +15,7 @@ PygmentsStyle = "friendly"
   name = "Tom Scott"
   email = "tomscott87@gmail.com"
   github = "tscott0"
+  linkedin = "tomscottprofile"
 
 [[menu.main]]
     name = "Blog"
